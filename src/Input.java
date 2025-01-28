@@ -5,7 +5,7 @@ public class Input{
         //open scanner
         Scanner scanner = new Scanner(System.in);
 
-        //initialize variables
+        //declare variables
         String name;
         int age;
         float weight;
